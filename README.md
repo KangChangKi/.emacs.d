@@ -1,4 +1,4 @@
 .emacs.d
 ========
-emacs setting
-bash setting for emacs
+- emacs settings
+- bash settings
