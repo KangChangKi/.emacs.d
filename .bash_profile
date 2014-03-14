@@ -8,3 +8,7 @@ alias estop='emacsclient -e "(kill-emacs)"'  # emacs daemon stop
 alias e='emacsclient -nw'  # console
 alias ew='emacsclient -c'  # GUI
 export EDITOR='emacsclient -nw'  # default editor
+
+# git
+alias gst='git status'
+alias gdf='git diff'
