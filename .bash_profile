@@ -13,3 +13,4 @@ export EDITOR='emacsclient -nw'  # default editor
 alias gst='git status'
 alias gdf='git diff'
 alias grh='git reset --hard HEAD'
+alias glg='git log --oneline'
