@@ -14,6 +14,7 @@ alias gst='git status'
 alias gdf='git diff'
 alias grh='git reset --hard HEAD'
 alias glg='git log --oneline'
+alias gsh='git show'
 
 ## rebase
 alias gri='git rebase -i'
