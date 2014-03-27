@@ -14,3 +14,10 @@ alias gst='git status'
 alias gdf='git diff'
 alias grh='git reset --hard HEAD'
 alias glg='git log --oneline'
+
+## rebase
+alias gri='git rebase -i'
+alias gcm='git commit --amend'
+alias grc='git rebase --continue'
+alias grs='git rebase --skip'
+alias grb='git rebase --abort'
