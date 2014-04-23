@@ -40,6 +40,11 @@ and modify the location of cask.el with the found in init.el.
     emacs init.el
 ```
 
+1.  run brew cask script
+    ```
+    ./setup.sh
+```
+
 1.  done.
 emacs daemon can be started by
 
