@@ -57,5 +57,5 @@ emacs daemon can be started by
 and stop by
 
     ```
-    stop
+    estop
 ```
