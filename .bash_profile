@@ -3,7 +3,7 @@
 # source ~/.emacs.d/.bash_profile
 
 # brew path
-export PATH=/usr/local/bin:$PATH
+export PATH=/usr/local/sbin:/usr/local/bin:$PATH
 
 # alias, export
 alias ll='ls -al'

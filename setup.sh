@@ -102,8 +102,11 @@ brew install redis
 brew install mariadb
 brew install rabbitmq
 brew install zeromq
+brew install tomcat
+brew install tomcat6
 
 brew install maven
+brew install ant
 brew install gradle
 brew install grails
 
