@@ -26,7 +26,10 @@ brew tap homebrew/binary
 brew tap josegonzalez/homebrew-php
 
 brew tap phinze/homebrew-cask
- 
+
+brew tap staticfloat/julia
+brew tap homebrew/versions
+
 # Memo:
 
 # autoconf:   emacs with inline.patch needs autoheader
@@ -94,7 +97,24 @@ brew install tree
 brew install emacs
 
 brew install mongodb
+brew install zookeeper
+brew install redis
+brew install mariadb
+brew install rabbitmq
+brew install zeromq
+
+brew install maven
+brew install gradle
+brew install grails
+
+brew install groovy --invokedynamic
 brew install scala
+
+brew install ruby
+gem install rails
+
+brew install julia --64bit
+brew install gnuplot --wx
 
 brew install gfortran
 brew install python

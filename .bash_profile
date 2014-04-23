@@ -5,9 +5,10 @@
 # brew path
 export PATH=/usr/local/bin:$PATH
 
-# alias
+# alias, export
 alias ll='ls -al'
 alias l='ls -al'
+export CLICOLOR=1
 
 # emacs ==> to use emacs daemon
 alias estart='emacs --daemon'  # emacs daemon start
