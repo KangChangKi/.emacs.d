@@ -43,6 +43,8 @@ brew tap phinze/homebrew-cask
 
 # webkit2png: % webkit2png -TF http://masutaka.net
 
+################ brew
+
 brew install ack
 #brew install aspell
 #brew install autoconf
@@ -72,7 +74,7 @@ brew install node
 
 brew install openssl
 #brew install phpenv
-#brew install pkg-config
+brew install pkg-config
 #brew install plenv
 
 #brew install postgresql
@@ -86,8 +88,21 @@ brew install openssl
 
 #brew install webkit2png
 brew install wget
-#brew install xz
+brew install curl --with-ssh
 
+brew install tree
+brew install emacs
+
+brew install mongodb
+brew install scala
+
+brew install gfortran
+brew install python
+pip install numpy
+pip install scipy
+pip install matplotlib
+
+################ brew-cask
 
 brew install brew-cask
 #brew cask install adobe-reader
