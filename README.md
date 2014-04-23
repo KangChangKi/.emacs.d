@@ -2,7 +2,9 @@
 ========
 
 1. install xcode
+
 1. install brew
+
 1. install emacs
     
     ```
