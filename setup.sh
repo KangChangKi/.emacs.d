@@ -108,7 +108,7 @@ brew install brew-cask
 #brew cask install adobe-reader
 #brew cask install appcleaner
 
-brew cask install dropbox
+#brew cask install dropbox
 #brew cask install firefox
 brew cask install flash
 
