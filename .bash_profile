@@ -5,6 +5,10 @@
 # brew path
 export PATH=/usr/local/bin:$PATH
 
+# alias
+alias ll='ls -al'
+alias l='ls -al'
+
 # emacs ==> to use emacs daemon
 alias estart='emacs --daemon'  # emacs daemon start
 alias estop='emacsclient -e "(kill-emacs)"'  # emacs daemon stop
