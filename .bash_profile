@@ -2,6 +2,9 @@
 # 
 # source ~/.emacs.d/.bash_profile
 
+# brew path
+export PATH=/usr/local/bin:$PATH
+
 # emacs ==> to use emacs daemon
 alias estart='emacs --daemon'  # emacs daemon start
 alias estop='emacsclient -e "(kill-emacs)"'  # emacs daemon stop
