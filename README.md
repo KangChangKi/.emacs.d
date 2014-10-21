@@ -1,7 +1,10 @@
 .emacs.d
 ========
 
+1. install xcode
+
 1. install brew
+
 1. install emacs
     
     ```
@@ -54,5 +57,5 @@ emacs daemon can be started by
 and stop by
 
     ```
-    stop
+    estop
 ```
