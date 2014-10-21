@@ -73,7 +73,7 @@ brew install git
 
 #brew install mercurial
 brew install nginx
-brew install node
+#brew install node
 
 brew install openssl
 #brew install phpenv
@@ -97,13 +97,13 @@ brew install tree
 brew install emacs
 
 brew install mongodb
-brew install zookeeper
-brew install redis
-brew install mariadb
-brew install rabbitmq
-brew install zeromq
-brew install tomcat
-brew install tomcat6
+#brew install zookeeper
+#brew install redis
+#brew install mariadb
+#brew install rabbitmq
+#brew install zeromq
+#brew install tomcat
+#brew install tomcat6
 
 brew install maven
 brew install ant
@@ -111,13 +111,13 @@ brew install gradle
 brew install grails
 
 brew install groovy --invokedynamic
-brew install scala
+#brew install scala
 
 brew install ruby
 gem install rails
 
-brew install julia --64bit
-brew install gnuplot --wx
+#brew install julia --64bit
+#brew install gnuplot --wx
 
 brew install gfortran
 brew install python
@@ -145,7 +145,7 @@ brew cask install google-drive
 
 #brew cask install hipchat
 brew cask install iterm2
-brew cask install keyremap4macbook
+brew cask install karabiner
 
 #brew cask install libreoffice
 #brew cask install limechat
@@ -164,9 +164,9 @@ brew cask install sourcetree
 #brew cask install sublime-text
 
 #brew cask install trailer
-brew cask install vagrant
-brew cask install virtualbox
+#brew cask install vagrant
+#brew cask install virtualbox
 
-brew cask install vlc
+#brew cask install vlc
 
 brew cask install launchrocket
